@@ -33,7 +33,7 @@ Feel free to raise PRs to enrich this repo with more questions. Also most of the
 |22  | [Implement a singleton class in Javascript.](#Implement-a-singleton-class-in-Javascript.) |
 |23  | [Lifecycle hooks of react with use of each hook?](#Lifecycle-hooks-of-react-with-use-of-each-hook?) |
 |24  | [Does react component only update on state change or also on prop change ?](#Does-react-component-only-update-on-state-change-or-also-on-prop-change-?) |
-|25  | [what is the future  of web components ?](#What-is-the-future-of-web-components-?) |
+|25  | [How to start a new Angular project from cli ?](#How-to-start-a-new-Angular-project-from-cli-?) |
 
 
 1. ### What is CORS? How does it work in browsers? What is preflight request
@@ -85,6 +85,8 @@ Feel free to raise PRs to enrich this repo with more questions. Also most of the
 23. ### Lifecycle hooks of react with use of each hook?
      Answer To be added
 24. ### Does react component only update on state change or also on prop change ?
+     Answer To be added
+25. ### How to start a new Angular project from cli ?
      Answer To be added
 
 
